@@ -25,5 +25,5 @@ This repository contains the source code for my personal portfolio website. The 
 ## Getting Started
 1. Clone this repository to your local machine.
 2. Open `index.html` in your web browser to view the website.
-3. Customize the content and styles in `index.html`, `css/styles.css`, and `script.js` to reflect your own portfolio.
+3. Customize the content and styles in `index.html`, `styles.css`, and `script.js` to reflect your own portfolio.
 4. add all the images to a folder named'images' and add fonts to a seperate folder named 'fonts'.
